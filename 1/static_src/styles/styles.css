@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text-field {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 150px;
+}
+
+.menu {
+    width: 150px;
+}
+
+.layout {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding-top: 20%;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    color: #090d13;
+}
